@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Yash Kolpe
 - 👀 I’m interested in Machine Learning and Deep Learning
 - 🌱 I’m currently learning Machine Learning 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yashkolpe8270@gmail.com 
 - 😄 Pronouns: He/Him
 
